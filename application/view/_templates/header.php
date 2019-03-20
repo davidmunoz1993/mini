@@ -16,7 +16,7 @@
 <body>
     <!-- logo, check the CSS file for more info how the logo "image" is shown -->
     <div class="logo"></div>
-
+<h1>PRUEBA</h1>
     <!-- navigation -->
     <div class="navigation">
         <a href="<?php echo URL; ?>">home</a>
